@@ -11,15 +11,11 @@ int main() {
     int varLengArrInt;
     vector<int> values;
     vector<int> baris;
-    
     vector<vector<int>> varK;
     vector<vector<int>> queries;
-    // int varK[100][100];
     int varKa;
-    int varKb;
     int counter = 0;
     int counterk = 0;
-    int counterKk = 0;
     int a = 0;
     int b = 0;
     
